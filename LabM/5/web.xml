@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+ <servlet-name>HelloForm</servlet-name>
+ <servlet-class>HelloForm</servlet-class>
+</servlet>
+<servlet-mapping>
+ <servlet-name>HelloForm</servlet-name>
+ <url-pattern>/HelloForm</url-pattern>
+</servlet-mapping>
+</web-app>
